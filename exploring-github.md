@@ -1,7 +1,7 @@
 #Setting Up Github
 
 #Vocabulary
-    -git 
-    -repository
-    -clone
-    -push
+-git 
+-repository
+-clone
+-push
