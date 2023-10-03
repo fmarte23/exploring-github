@@ -1,6 +1,6 @@
 Setting Up Github
 
-//Vocabulary
+#Vocabulary
     -git 
     -repository
     -clone
